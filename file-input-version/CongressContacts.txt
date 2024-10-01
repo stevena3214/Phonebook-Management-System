@@ -1,4 +1,4 @@
-last_name,first_name,middle_name,suffix,nickname,full_name,birthday,gender,type,state,district,senate_class,party,url,address,phone
+
 Brown,Sherrod,,,,Sherrod Brown,11/9/1952,M,sen,OH,,1,Democrat,https://www.brown.senate.gov,503 Hart Senate Office Building Washington DC 20510,202-224-2315
 Cantwell,Maria,,,,Maria Cantwell,10/13/1958,F,sen,WA,,1,Democrat,https://www.cantwell.senate.gov,511 Hart Senate Office Building Washington DC 20510,202-224-3441
 Cardin,Benjamin,L.,,,Benjamin L. Cardin,10/5/1943,M,sen,MD,,1,Democrat,https://www.cardin.senate.gov,509 Hart Senate Office Building Washington DC 20510,202-224-4524
